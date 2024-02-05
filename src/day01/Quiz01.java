@@ -1,6 +1,6 @@
 package day01;
 
-public class quiz01 {
+public class Quiz01 {
 	public static void main(String[] args) {
 		System.out.println("=======================================");
 		System.out.println("이름\t나이\t전화번호\t\t회비");
